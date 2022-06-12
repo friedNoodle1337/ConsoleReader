@@ -1,0 +1,2 @@
+boo [text] [integer] repeats text N times
+blah outputs "ooga booga"
